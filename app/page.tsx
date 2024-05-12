@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div className="w-1/2 px-4 py-2 flex justify-center items-center border border-black shadow-md bg-blue-500 rounded-md text-white font-semibold">
           <Link href={'/events'}>
-            Workshops
+            Eventos
           </Link>
         </div>
       </div>
